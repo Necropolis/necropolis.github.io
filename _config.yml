@@ -1,0 +1,8 @@
+title: The Necropolis
+description: Where old code goes to die!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
